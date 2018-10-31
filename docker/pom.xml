@@ -8,7 +8,7 @@
     <parent>
         <artifactId>enricher</artifactId>
         <groupId>io.wizzie.enricher</groupId>
-        <version>0.5.1.2-SNAPSHOT</version>
+        <version>0.5.2</version>
     </parent>
 
     <artifactId>docker</artifactId>
